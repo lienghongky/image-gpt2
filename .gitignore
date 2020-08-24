@@ -1,0 +1,9 @@
+__pycache__
+.mypy_cache/
+content/
+src/transformers
+clusters/
+clusters1/
+datasets/
+downloads/
+models/
